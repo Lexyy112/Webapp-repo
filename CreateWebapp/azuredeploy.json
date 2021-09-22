@@ -38,7 +38,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "relativePath": "https://github.com/Lexyy112/Webapp-repo/blob/main/CreateWebapp/LinkedStorageAccount.json"
+          "relativePath": "LinkedStorageAccount.json"
         },
         "parameters": {
           "storageAccountName": {
