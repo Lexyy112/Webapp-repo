@@ -21,7 +21,7 @@ steps:
     location: 'UK South'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Lexyy112/Webapp-repo/main/CreateWebapp/azuredeploy.json'
-    overrideParameters: '-projectName TestingArea'
+    overrideParameters: '-projectName Testbed'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
